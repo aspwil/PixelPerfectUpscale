@@ -20,7 +20,7 @@ public class Main {
 
         String version = "V1.0";
         String help = "Pixel Perfect Upscale" + version + "\n"
-                + "the command structure is: PPUP <flags> [input file/folder] <output file/folder>"
+                + "the command structure is: <flags> [input file/folder] <output file/folder>"
                 + "the flags are as follows:\n"
                 + "-h --help : This shows help (this dialog)\n"
                 + "-s --scale [int]: integer to scale images by\n"
