@@ -27,6 +27,10 @@ you can also use a directory as input and it will repalce the file for every png
 
 if you specify a diffrent output directory, it will output the files to the new directory and leave the orginials uneffected
 
+IT IS HIGHLY RECOMENDED TO USE AN OUTPUT DIRECTORY, SO AS TO NOT REPLACE THE ORIGINAL IMAGES.
+
+this program supports upscaling images, but cant downscale them back to the original state.
+
 you can also specify an output png file like: `java -jar PPUP.jar "test.png" "test2x.png"`
 
 if you dont specify a scale, it will default to 2x
